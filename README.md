@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatingahlott" alt="jatingahlott" /></a> </p>
 
-- 🔭 I’m currently working on **Bow's Eye**
+- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Reverse Engg., Web Pentesting**
+- 🌱 I’m currently learning **Advance Front-End Dev, Web Pentesting**
 
 - 👯 I’m looking to collaborate on **CTF's**
 
